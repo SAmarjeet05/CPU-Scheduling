@@ -65,6 +65,7 @@ void avg(process p[], int n){
 }
 
 int main() {
+    //When Arrival time is not included
     int n;
     printf("Enter the number of processes: ");
     scanf("%d",&n);
